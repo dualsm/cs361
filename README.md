@@ -4,4 +4,4 @@ You may request data from my microservice by using the user interface as you wou
 # Receiving data from my microservice
 The data from my microservice will be found in the shared MongoDB. Your microservice may request the data from there.
 
-Image of UML of program so far: ! [] (https://cdn.discordapp.com/attachments/891111401588949022/1176414382222225489/image.png?ex=656ec845&is=655c5345&hm=c661065e14009b706e8169c09ae103b8e37cbb346257b2dfc3b5a8887e9e8780&)
+Image of UML of program so far: https://cdn.discordapp.com/attachments/891111401588949022/1176414382222225489/image.png?ex=656ec845&is=655c5345&hm=c661065e14009b706e8169c09ae103b8e37cbb346257b2dfc3b5a8887e9e8780&
